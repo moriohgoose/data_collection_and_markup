@@ -1,4 +1,4 @@
-# module1
+# module_1
 Для основного набора данных был использован открытый датасет https://www.kaggle.com/datasets/joebeachcapital/top-1000-steam-games
 
 Веб-скрейпинг с сайта https://thegameawards.com/nominees
