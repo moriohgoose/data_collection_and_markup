@@ -11,4 +11,5 @@
 
 # module_2
 Разметка происходила на app.labelbox.com
+
 ТЗ и сбор обратной связи по разметке данных находились в гугл форме (https://forms.gle/ZCuRHBRrucqDdM3V6)
