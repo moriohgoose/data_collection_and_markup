@@ -42,7 +42,7 @@
     <img src="https://cs8.pikabu.ru/post_img/2016/12/20/5/og_og_1482216858253232392.jpg" width="50%" height="50%">
 </p>
 
-3) https://www.sciencedirect.com/science/article/pii/S2666914522001476
+2) https://www.sciencedirect.com/science/article/pii/S2666914522001476
    
       Вторая статья - SynthEye: Investigating the Impact of Synthetic Data on Artificial Intelligence-assisted Gene Diagnosis of Inherited Retinal Disease - затрагивает чуть более спорный подход к применению синтетических данных в медицине. Исследование "SynthEye" направлено на оценку потенциала улучшения ИИ в диагностике наследственных заболеваний сетчатки глаза (IRD) с использованием синтетических данных.
 
